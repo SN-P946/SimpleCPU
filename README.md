@@ -43,10 +43,10 @@ When defining operands in machine code, registers are mapped to integers:
 * Python 3.8+
 
 ### Running the Simulator
-1.  Clone the repository or download `cpu_sim.py`.
+1.  Clone the repository or download `SimpleCPU.py`.
 2.  Run the script:
     ```bash
-    python cpu_sim.py
+    python SimpleCPU.py
     ```
 
 ### Writing a Program
